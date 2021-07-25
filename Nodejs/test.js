@@ -25,9 +25,9 @@ const send = async(option) =>  {
     });
 };
 
-let data = {
-    from: 'a1d6dc35dc-c5c69e@inbox.mailtrap.io',
-    to: 'a1d6dc35dc-c5c69e@inbox.mailtrap.io',
+let email_data = {
+    from: 'yyh7654@gmail.com',
+    to: 'yyh7654@gmail.com',
     subject: '테스트 메일 입니다.',
     text: 'nodejs 예제입니다.'
 }
