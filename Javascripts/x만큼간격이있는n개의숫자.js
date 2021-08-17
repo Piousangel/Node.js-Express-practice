@@ -20,6 +20,7 @@ function solution(x, n) {
 
 
 // 다른사람풀이 1
+// v는 기존의 x로 채워진 value값들, i는 말그대로 index번호가 적혀져있는거야..
 function solution(x, n) {
     return Array(n).fill(x).map((v, i) => (i + 1) * v)
 }
