@@ -1,6 +1,7 @@
 function solution(x) {
 
     // for / of 기억합시다,,,,
+    //String(숫자)  , parseInt(문자) !
 
     var answer = false;
     var str = String(x);   
